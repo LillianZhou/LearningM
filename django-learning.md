@@ -12,3 +12,16 @@ ModelSerializers: 序列一个非常棒的属性就是可以通过打印序列�
 重要的是要记住，ModelSerializer类并不会做任何特别神奇的事情，它们只是创建序列化器类的快捷方式：
 * 一组自动确定的字段。
 * 默认简单实现的create()和update()方法。
+
+
+# ML Links
+
+* Pipeline/workflow of machine learning
+- https://ml-ops.org/content/three-levels-of-ml-software
+- [What Is a Machine Learning Pipeline?](https://valohai.com/machine-learning-pipeline/)
+
+
+
+* Machine learning
+** from business perspective
+- Data Science for Business, https://learning.oreilly.com/library/view/data-science-for/9781449374273/
