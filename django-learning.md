@@ -25,3 +25,12 @@ ModelSerializers: 序列一个非常棒的属性就是可以通过打印序列�
 * Machine learning
 ** from business perspective
 - Data Science for Business, https://learning.oreilly.com/library/view/data-science-for/9781449374273/
+
+
+# Frontend Links
+- https://sangbui.com/sb-files/BrowserArchitecture_ClientSide.pdf
+- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- https://dev.to/gitpaulo/journey-of-a-web-page-how-browsers-work-10co
+best article red so far to introduce internal of web browser.
+
+https://learning.oreilly.com/videos/react-the/9781801812603/
